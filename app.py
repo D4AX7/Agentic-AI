@@ -26,7 +26,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Phidata Video AI Summarizer Agent 🎥🎤🖬")
+st.title("Video AI Summarizer Agent 🎥🎤🖬")
 st.header("Powered by Gemini 2.0 Flash Exp")
 
 
